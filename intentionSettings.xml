@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Concurrency/Convert to ThreadLocal" />
+    <ignoreAction name="Concurrency/Convert to atomic" />
+    <ignoreAction name="I18n string value" />
+    <ignoreAction name="Groovy/Expression conversions/Remove Unnecessary Parentheses from Method Call" />
+    <ignoreAction name="Inject Language" />
+    <ignoreAction name="Ruby/Convert string to symbol" />
+    <ignoreAction name="Ruby/I18n string value" />
+  </component>
+</application>
+

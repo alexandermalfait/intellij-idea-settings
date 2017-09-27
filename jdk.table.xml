@@ -1,0 +1,1227 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.6" />
+      <type value="RUBY_SDK" />
+      <version value="ver.Rubyp0" />
+      <homePath value="M:\workspace\installations\ruby1.8.6\bin\ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/site_ruby/1.8/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/1.8/i386-mingw32" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/site_ruby/1.8/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.6/lib/ruby/1.8/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/.IntelliJIdea90/config/plugins/ruby/rubystubs/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.Rubyp0" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/ruby1.8.6/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_14&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.6.0_14" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/alt-rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/jre/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_14/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.6.4" />
+      <type value="Python SDK" />
+      <homePath value="F:/workspace/installations/Python2.6" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/DLLs" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/Lib" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/Lib/lib-tk" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/.IntelliJIdea90/system/python_stubs/1547826131" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/DLLs" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/Lib" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/Lib/lib-tk" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6" />
+            <root type="simple" url="file://F:/workspace/installations/Python2.6/Lib/site-packages" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6 x64" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_20&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.6.0_20_x64" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/alt-rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/jre/lib/ext/sunjce_provider.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_20_x64/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="JRuby SDK 1.5.1" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.JRubyp0" />
+      <homePath value="M:\workspace\installations\jruby-1.5.1\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.5.1/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.5.1/lib/ruby/site_ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.5.1/lib/ruby/1.8" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.5.1/lib/jruby.jar!/builtin/javasupport" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.JRubyp0" PLATFORM="x86-java" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.5.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6 DECVM" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_21&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.6.0_21" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/alt-rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/ext/dcevm.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/jre/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_21/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.9.2-p0" />
+      <type value="RUBY_SDK" />
+      <version value="ver.Rubyp0" />
+      <homePath value="M:\workspace\installations\Ruby192\bin\ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/1.9.1/i386-mingw32" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby192/lib/ruby/1.9.1/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/.IntelliJIdea10/config/plugins/ruby/rubystubs/rubystubs19" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.Rubyp0" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/Ruby192/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Ruby SDK 1.8.7-p302" />
+      <type value="RUBY_SDK" />
+      <version value="ver.Rubyp0" />
+      <homePath value="M:\workspace\installations\ruby1.8.7\bin\ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/site_ruby/1.8/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/vendor_ruby/1.8/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/1.8/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs21" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/site_ruby/1.8/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/vendor_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/vendor_ruby/1.8/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/ruby1.8.7/lib/ruby/1.8/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/.IntelliJIdea10/config/plugins/ruby/rubystubs/rubystubs18" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.Rubyp0" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/ruby1.8.7/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="JRuby SDK 1.6.1-p330" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.JRubyp0" />
+      <homePath value="M:\workspace\installations\jruby-1.6.1\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.1/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.1/lib/ruby/site_ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.1/lib/ruby/1.8" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.JRubyp0" PLATFORM="Windows 8-x86-java" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.6.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Flex4SDK AIR" />
+      <type value="AIR SDK Type" />
+      <homePath value="M:/workspace/installations/Flex4SDK" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/datavisualization.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/flash-integration.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/flex.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/framework.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/osmf.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/rpc.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/spark.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/sparkskins.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/textLayout.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/utilities.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/aircore.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airframework.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airspark.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/applicationupdater.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/applicationupdater_ui.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/servicemonitor.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/airframework_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/airspark_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/automation_agent_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/automation_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/datavisualization_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/flash-integration_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/framework_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/osmf_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/playerglobal_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/qtp_air_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/rpc_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/spark_rb.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/locale/en_US/textLayout_rb.swc!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/air/ApplicationUpdater/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/air/Core/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/airframework/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/airspark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_air/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_airspark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_dmv/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_flashflexkit/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_spark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/datavisualization/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/flash-integration/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/flex/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/framework/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/osmf/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/rpc/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/spark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/sparkskins/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/textLayout/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/utilities/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/wireframe/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6u29 (no DCEVM)" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_29&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.6.0_29" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/alt-rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/alt-string.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/jre/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_29/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.6.7-p357" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.6.7p0 (1.9.0) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.6.7\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.7/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.7/lib/ruby/site_ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.7/lib/ruby/1.8" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.6.7/lib/jruby.jar!/builtin/javasupport" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.6.7p0 (1.9.0) VM" PLATFORM="Windows 8-x86-java" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.6.7/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_04&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.7.0_04" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_04/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7.0.9" />
+      <type value="JavaSDK" />
+      <homePath value="C:/Program Files/Java/jdk1.7.0_09" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.7.0_09/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.7.1-p327" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.1p0 (1.9.3) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.7.1\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.1/lib/ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.1/lib/ruby/1.8" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.7.1/lib/jruby.jar!/jruby" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.7.1p0 (1.9.3) VM" PLATFORM="Windows 8-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.7.1/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Flex4SDK" />
+      <type value="Flex SDK Type (new)" />
+      <version value="4.1.0.16076" />
+      <homePath value="M:/workspace/installations/Flex4SDK" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/player/10.0/playerglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/player/10.1/playerglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/datavisualization.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/flash-integration.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/flex.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/framework.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/osmf.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/rpc.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/spark.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/sparkskins.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/textLayout.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/utilities.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/aircore.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airframework.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/airspark.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/applicationupdater.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/applicationupdater_ui.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/Flex4SDK/frameworks/libs/air/servicemonitor.swc!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/air/ApplicationUpdater/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/air/Core/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/airframework/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/airspark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_air/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_airspark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_dmv/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_flashflexkit/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/automation_spark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/datavisualization/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/flash-integration/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/flex/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/framework/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/osmf/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/rpc/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/spark/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/sparkskins/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/textLayout/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/utilities/src" />
+            <root type="simple" url="file://M:/workspace/installations/Flex4SDK/frameworks/projects/wireframe/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.6.8-p357" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.6.8p0 (1.9.0) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.6.8\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.8/lib/ruby/site_ruby/1.8" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.8/lib/ruby/site_ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.6.8/lib/ruby/1.8" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.6.8/lib/jruby.jar!/builtin/javasupport" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.6.8p0 (1.9.0) VM" PLATFORM="Windows 8-x86-java" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.6.8/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="flex_sdk_4.6" />
+      <type value="Flex SDK Type (new)" />
+      <version value="4.6.0.23201" />
+      <homePath value="M:/workspace/installations/flex_sdk_4.6" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/player/11.1/playerglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/airglobal.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/advancedgrids.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/authoringsupport.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/charts.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/core.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/flash-integration.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/framework.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/osmf.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/rpc.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/spark.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/sparkskins.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/spark_dmv.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/textLayout.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/mx/mx.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/aircore.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/airframework.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/airspark.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/applicationupdater.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/applicationupdater_ui.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/air/servicemonitor.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/libs/mobile/mobilecomponents.swc!/" />
+            <root type="simple" url="jar://M:/workspace/installations/flex_sdk_4.6/frameworks/themes/Mobile/mobile.swc!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/advancedgrids/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/air/ApplicationUpdater/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/air/Core/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/air/Licensing/Android/AndroidLicensingJavaProject/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/air/Licensing/Android/AndroidLicensingLib/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/airframework/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/airspark/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/authoringsupport/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/automation/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/automation_air/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/automation_airspark/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/automation_dmv/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/automation_flashflexkit/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/automation_spark/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/charts/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/core/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/flash-integration/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/framework/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/mobilecomponents/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/mobiletheme/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/mx/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/osmf/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/rpc/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/spark/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/sparkskins/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/spark_dmv/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/textLayout/src" />
+            <root type="simple" url="file://M:/workspace/installations/flex_sdk_4.6/frameworks/projects/wireframe/src" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7 DCE" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0_21&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.7.0_21_DCE" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/jfxrt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/access-bridge-32.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.7.0_21_DCE/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android 4.1.2 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_51&quot;" />
+      <homePath value="C:/Program Files (x86)/Android/android-sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="1.8" />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.7.9-p392" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.9p0 (1.9.3) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.7.9\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.9/lib/ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.9/lib/ruby/1.9" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.7.9/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.7.9p0 (1.9.3) VM" PLATFORM="Windows 8-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.7.9/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.6u45" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0_45&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.6.0_45" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/jre/lib/ext/sunpkcs11.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.6.0_45/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.7.9 (1.8)" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.9p0 (1.9.3) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.7.9-1.8\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.9-1.8/lib/ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.9-1.8/lib/ruby/1.9" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.7.9-1.8/lib/jruby.jar!/jruby" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.7.9p0 (1.9.3) VM" PLATFORM="Windows 8-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.7.9-1.8/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_51&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.8.0_51" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/src.zip!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8 DCE" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_51&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.8.0_51_DCE" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+            <root type="simple" url="file://M:/workspace/idea/lib" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/jre/lib/ext/zipfs.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/src.zip!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_51_DCE/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="ruby-1.9.3-p551" />
+      <type value="RUBY_SDK" />
+      <version value="ver.1.9.3p0" />
+      <homePath value="M:\workspace\installations\Ruby193\bin\ruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/1.9.1/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/1.9.1/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/site_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby/1.9.1/i386-msvcrt" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/vendor_ruby" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/1.9.1" />
+            <root type="simple" url="file://M:/workspace/installations/Ruby193/lib/ruby/1.9.1/i386-mingw32" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.9.3p0" PLATFORM="i386-mingw32" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/Ruby193/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-9.0.5.0-p0" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.9.0.5.0p0 (2.2.0) VM" />
+      <homePath value="M:\workspace\installations\jruby-9.0.5.0\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/jruby-9.0.5.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/jruby-9.0.5.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-9.0.5.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-9.0.5.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.9.0.5.0p0 (2.2.0) VM" PLATFORM="Windows 8-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-9.0.5.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-9.1.2.0-p0" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.9.1.2.0p0 (2.3.0) VM" />
+      <homePath value="M:\workspace\installations\jruby-9.1.2.0\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/jruby-9.1.2.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-9.1.2.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://M:/workspace/installations/jruby-9.1.2.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-9.1.2.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-9.1.2.0/lib/ruby/stdlib" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-9.1.2.0/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.9.1.2.0p0 (2.3.0) VM" PLATFORM="mswin32-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-9.1.2.0/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.7.25-p551" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.25p0 (1.9.3) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.7.25\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.25/lib/ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.25/lib/ruby/1.9" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.7.25/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.7.25p0 (1.9.3) VM" PLATFORM="Windows 8-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.7.25/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="jruby-1.7.12-p392" />
+      <type value="JRUBY_SDK" />
+      <version value="ver.1.7.12p0 (1.9.3) VM" />
+      <homePath value="M:\workspace\installations\jruby-1.7.12\bin\jruby.exe" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/shared" />
+            <root type="simple" url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/1.9" />
+            <root type="simple" url="jar://M:/workspace/installations/jruby-1.7.12/lib/jruby.jar!/jruby" />
+            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.1.7.12p0 (1.9.3) VM" PLATFORM="Windows 8-x86" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="M:/workspace/installations/jruby-1.7.12/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8.0_65_DCE" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_65&quot;" />
+      <homePath value="M:/workspace/installations/jdk1.8.0_65_DCE" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/jre/lib/plugin.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/src.zip!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/javafx-src.zip!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/src.zip!/" />
+            <root type="simple" url="jar://M:/workspace/installations/jdk1.8.0_65_DCE/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at com.google.inject.internal" />
+        <option value="&lt;generated&gt;" />
+        <option value="at com.google.inject" />
+        <option value="at com.wideplay.warp.jpa" />
+        <option value="at be.profitplus.server.guice.SecurityMethodInterceptor" />
+        <option value="at org.garbargecollected" />
+        <option value="at com.wideplay.warp" />
+        <option value="at org.apache.catalina" />
+        <option value="$$EnhancerByGuice$$" />
+      </list>
+    </option>
+  </component>
+</application>
+

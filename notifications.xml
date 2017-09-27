@@ -1,0 +1,108 @@
+<application>
+  <component name="FileTypeManager" version="10">
+    <ignoreFiles list="CVS;SCCS;RCS;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;*.orig;__pycache__;.bundle;" />
+    <extensionMap>
+      <mapping ext="ods" type="Native" />
+      <mapping ext="sqlite3" type="Native" />
+      <mapping pattern="prefs" type="PLAIN_TEXT" />
+      <mapping pattern="ignores" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="gemfile-test" type="PLAIN_TEXT" />
+      <mapping pattern="buildfile" type="PLAIN_TEXT" />
+      <mapping pattern="plugin" type="PLAIN_TEXT" />
+      <mapping pattern="autotrim" type="PLAIN_TEXT" />
+      <mapping pattern="last_built_revision" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping ext="prefs" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="project" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="disabled" type="PLAIN_TEXT" />
+      <mapping ext="vm" type="PLAIN_TEXT" />
+      <mapping ext="rdoc" type="PLAIN_TEXT" />
+      <mapping ext="buildpath" type="PLAIN_TEXT" />
+      <mapping ext="prej" type="PLAIN_TEXT" />
+      <mapping ext="date" type="PLAIN_TEXT" />
+      <mapping ext="ps" type="PLAIN_TEXT" />
+      <removed_mapping ext="rdoc" type="RDOC" />
+      <mapping ext="pom" type="XML" />
+      <mapping ext="rng" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="NotificationConfiguration">
+    <notification groupId="AIR Packaging" />
+    <notification groupId="Analyze thread dump" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Android Module Importing" />
+    <notification groupId="Android Property Files Updating" />
+    <notification groupId="Android Session Restarted" displayType="TOOL_WINDOW" />
+    <notification groupId="Android XML code style notification" shouldLog="false" />
+    <notification groupId="Clean artifact" />
+    <notification groupId="Common Version Control Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Compiler" />
+    <notification groupId="Database" displayType="TOOL_WINDOW" />
+    <notification groupId="Database editor log" />
+    <notification groupId="Database log" />
+    <notification groupId="Database refactoring log" />
+    <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger" />
+    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Execution" />
+    <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
+    <notification groupId="Facet Detector" displayType="STICKY_BALLOON" />
+    <notification groupId="File type recognized" />
+    <notification groupId="Flash app not compiled before launch" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Flex messages" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Framework Detection" />
+    <notification groupId="Gem Manager" />
+    <notification groupId="Git Important Errors" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Git Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Git Minor Notifications" />
+    <notification groupId="Gradle warnings" displayType="TOOL_WINDOW" />
+    <notification groupId="Grape" />
+    <notification groupId="Groovy DSL errors" />
+    <notification groupId="HotSwap" displayType="TOOL_WINDOW" />
+    <notification groupId="IDE Fatal Errors" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Indexing" shouldLog="false" />
+    <notification groupId="JavaEE" displayType="TOOL_WINDOW" />
+    <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
+    <notification groupId="LESS Compiler Error Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Less Compiler Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Less Compiler Log" />
+    <notification groupId="Less Compiler Messages" displayType="TOOL_WINDOW" />
+    <notification groupId="Less Compiler Minor Notifications" />
+    <notification groupId="LESS Compiler Notices" />
+    <notification groupId="LESS Compiler Successful Compiles" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="Maven" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="Module Manager" />
+    <notification groupId="Nailgun Server" displayType="TOOL_WINDOW" />
+    <notification groupId="Package File" />
+    <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="PHP-CGI Server" displayType="STICKY_BALLOON" />
+    <notification groupId="PHPUnit" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="PHPUnit Generate Actions" />
+    <notification groupId="Plugin Error" />
+    <notification groupId="Plugin Settings Error" />
+    <notification groupId="Project Loading Error" />
+    <notification groupId="Rails Data Sources Detector" />
+    <notification groupId="RVM Support" />
+    <notification groupId="Source searcher" />
+    <notification groupId="Subversion" />
+    <notification groupId="Svn Roots Detection Errors" displayType="STICKY_BALLOON" />
+    <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="System Messages" />
+    <notification groupId="Test Runner" />
+    <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
+    <notification groupId="update.available.group" displayType="STICKY_BALLOON" />
+    <notification groupId="Upgrade Subscription Renewal" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" />
+    <notification groupId="Vcs Minor Notifications" />
+    <notification groupId="Web Deployment" displayType="TOOL_WINDOW" />
+  </component>
+</application>

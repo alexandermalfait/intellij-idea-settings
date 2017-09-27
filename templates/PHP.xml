@@ -1,0 +1,6 @@
+<templateSet group="PHP">
+  <template name="vdoc" value="/** @var $NAME$ $TYPE$ */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

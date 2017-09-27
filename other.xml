@@ -1,0 +1,176 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Ruby" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Ruby" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="renameOverloads" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_VARIABLE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_VARIABLE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_OVERLOADS" value="false" />
+  </component>
+  <component name="RubyDuplocatorSettings">
+    <option name="LOWER_BOUND" value="25" />
+  </component>
+  <component name="SelectProjectTemplateSettings">
+    <option name="EXPERT_MODE" value="true" />
+    <option name="LAST_TEMPLATE" value="Other/Ruby" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.catsolutions.be/svn/dtop" />
+        <option value="http://svn.catsolutions.be/svn/icarus3" />
+        <option value="http://svn.catsolutions.be/svn/jobcontest" />
+        <option value="http://svn.catsolutions.be/svn/profitplus" />
+        <option value="http://svn.catsolutions.be/svn/as-fedpol-im" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.catsolutions.be/svn/dtop" />
+        <option value="http://svn.catsolutions.be/svn/dto" />
+        <option value="http://svn.catsolutions.be/svn/icarus3" />
+        <option value="http://svn.catsolutions.be/svn/jobcontest" />
+        <option value="http://svn.catsolutions.be/svn/profitplus" />
+        <option value="http://svn.catsolutions.be/svn/as-fedpol-im" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://svn.catsolutions.be/svn/icarus3/branches/5.0-DEV">
+          <value>
+            <set>
+              <option value="M:\workspace\rubymine\Icarus3-Branch-dev" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.catsolutions.be/svn/icarus3/trunk">
+          <value>
+            <set>
+              <option value="M:\workspace\rubymine\Icarus3" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.catsolutions.be/svn/jobsolutions/releases/2.3-DEV">
+          <value>
+            <set>
+              <option value="M:\workspace\rubymine\jobsolutions-branch-dev" />
+            </set>
+          </value>
+        </entry>
+        <entry key="http://svn.catsolutions.be/svn/profitplus/trunk">
+          <value>
+            <set>
+              <option value="M:\workspace\idea\ProfitPlusIdeaX" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://svn.catsolutions.be/var/svn/profitplus/branches/2014-04-30">
+          <value>
+            <set>
+              <option value="M:\workspace\idea\ProfitPlusBranch" />
+            </set>
+          </value>
+        </entry>
+        <entry key="svn+ssh://svn.catsolutions.be/var/svn/profitplus/trunk">
+          <value>
+            <set>
+              <option value="M:\workspace\idea\ProfitPlusIdeaX" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="C:\Users\Alex\Desktop">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\Alex\Desktop" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2">
+    <StubPackage>be.profitplus.client.util.printers.epos</StubPackage>
+    <StubPackage>be.profitplus.client.tools.epos</StubPackage>
+    <StubPackage>be.profitplus.server.extensions.euromusic.markets.cdiscount.webservice</StubPackage>
+    <StubUrl>file:/$USER_HOME$/Downloads/ePOS-Print_XML_um_en_revP/epos-print-5.0.0.wsdl</StubUrl>
+    <StubUrl>https://wsvc.cdiscount.com/MarketplaceAPIService.svc?wsdl</StubUrl>
+    <StubUrl>file:/M:/workspace/idea/ProfitPlusEuromusic/profitplus-euromusic-server/src/main/resources/MarketplaceAPIService.svc.wsdl</StubUrl>
+    <StubUrl>https://wsvc.preprod-cdiscount.com/MarketplaceAPIService.svc?wsdl</StubUrl>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Haml HTMLhtml." />
+            <item index="1" class="java.lang.String" itemvalue="Ruby Class Template" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
+</application>

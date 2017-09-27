@@ -1,0 +1,82 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="HQL" injector-id="groovy">
+      <display-name>New Groovy Injection</display-name>
+      <place><![CDATA[groovyElement().methodCallParameter(0, psiMethod().withName("createQuery").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>Connection (java.sql)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("nativeSQL").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareCall").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int", "int", "int").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Connection"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("prepareStatement").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Connection"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>DbMigration.executeSql (be.profitplus.server.migration)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeSql").withParameters("java.lang.String").definedInClass("be.profitplus.server.migration.DbMigration"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="java">
+      <display-name>RegexFormatter.RegexFormatter (be.profitplus.client.gui.util.formatters)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("RegexFormatter").withParameters("java.lang.String").definedInClass("be.profitplus.client.gui.util.formatters.RegexFormatter"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>SimpleJdbcOperations (org.springframework.jdbc.core.simple)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batchUpdate").withParameters("java.lang.String", "java.util.List").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batchUpdate").withParameters("java.lang.String", "java.util.List", "int[]").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batchUpdate").withParameters("java.lang.String", "java.util.Map[]").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("batchUpdate").withParameters("java.lang.String", "org.springframework.jdbc.core.namedparam.SqlParameterSource[]").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.RowMapper", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.RowMapper", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.RowMapper", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("query").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper<T>", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForInt").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForInt").withParameters("java.lang.String", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForInt").withParameters("java.lang.String", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForList").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForList").withParameters("java.lang.String", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForList").withParameters("java.lang.String", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForLong").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForLong").withParameters("java.lang.String", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForLong").withParameters("java.lang.String", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForMap").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForMap").withParameters("java.lang.String", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForMap").withParameters("java.lang.String", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "java.lang.Class", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "java.lang.Class", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "java.lang.Class", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "java.lang.Class<T>", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.RowMapper", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.RowMapper", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.RowMapper", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("queryForObject").withParameters("java.lang.String", "org.springframework.jdbc.core.simple.ParameterizedRowMapper<T>", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "java.util.Map").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("update").withParameters("java.lang.String", "org.springframework.jdbc.core.namedparam.SqlParameterSource").definedInClass("org.springframework.jdbc.core.simple.SimpleJdbcOperations"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>Statement (java.sql)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addBatch").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String", "int").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("execute").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeQuery").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String", "int").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String", "int[]").definedInClass("java.sql.Statement"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeUpdate").withParameters("java.lang.String", "java.lang.String[]").definedInClass("java.sql.Statement"))]]></place>
+    </injection>
+  </component>
+</application>

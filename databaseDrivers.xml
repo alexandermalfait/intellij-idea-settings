@@ -1,0 +1,176 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="h2.unified" name="H2" dialect="H2">
+      <artifact name="H2" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="34992660-e116-418b-b25a-c2a958349319" name="profit-persistence-unit driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
+      <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
+      <url-template name="default" template="jdbc:postgresql://\[{host:ipv6:\:\:1}\][:{port::5432}]/{database::postgres}[\?&lt;&amp;,user={user:param},password={password:param},{:identifier}={:param}&gt;]" />
+      <artifact name="PostgreSQL" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://M:\workspace\maven-repo\postgresql\postgresql\8.3-603.jdbc3\postgresql-8.3-603.jdbc3.jar</url>
+      </library>
+    </driver>
+    <driver id="oracle" name="Oracle" dialect="Oracle">
+      <artifact name="Oracle" use="true" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="false" />
+    </driver>
+    <driver id="derby.embedded" name="Derby (Embedded)" dialect="Derby">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="d061c2b2-fc56-44d8-98e1-31fc791bd88f" name="Data Source driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
+      <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <url-template name="default" template="jdbc:postgresql://\[{host:ipv6:\:\:1}\][:{port::5432}]/{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+    </driver>
+    <driver id="98f68682-b2b7-4b01-b272-b13cd0addf00" name="Data Source driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
+      <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <url-template name="default" template="jdbc:postgresql://\[{host:ipv6:\:\:1}\][:{port::5432}]/{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <library>
+        <url>file://M:/workspace/idea/lib/postgresql-9.0-801.jdbc3.jar</url>
+      </library>
+    </driver>
+    <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="derby.remote" name="Derby (Remote)" dialect="Derby">
+      <artifact name="Apache Derby" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlite.xerial" name="Sqlite (Xerial)" dialect="SQLite">
+      <artifact name="Xerial SQLiteJDBC" use="true" />
+      <option name="auto-sync" value="true" />
+      <property name="enable_load_extension" value="true" />
+    </driver>
+    <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+    </driver>
+    <driver id="db2" name="DB2 (LUW)" dialect="DB2">
+      <artifact name="DB2" use="true" />
+      <option name="auto-sync" value="false" />
+      <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+    </driver>
+    <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
+      <artifact name="SQL Server" use="true" />
+      <option name="auto-sync" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlserver-driver-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqlserver-win-auth.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/sqljdbc4-4.0.2206.100.jar</url>
+      </library>
+    </driver>
+    <driver id="java.sql.Driver" name="Frontbase" dialect="GenericSQL" driver-class="com.frontbase.jdbc.FBJDriver">
+      <url-template name="default" template="jdbc:driver://localhost/demeyer" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://M:/workspace/idea/lib/FrontBaseJDBC-2.5.9/frontbasejdbc.jar</url>
+      </library>
+    </driver>
+    <driver id="1f28c66a-331b-4ab0-b31f-dbda25cc8528" name="Data Source driver" dialect="MySQL" driver-class="com.mysql.jdbc.Driver" icon="AllIcons.Providers.Mysql">
+      <url-template name="default" template="jdbc:mysql://{host::localhost}?[:{port::3306}][/{database}?][\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <url-template name="default" template="jdbc:mysql://address=\(protocol=tcp\)\(&lt;\)\(,host={host:host_ipv6:localhost},port={port::3306},user={user},password={password},{:identifier}={:identifier}&gt;\)[/{database}][\?&lt;&amp;,{:identifier}={:identifier}&gt;]" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
+      <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
+      <library>
+        <url>jar://M:/workspace/idea/mysql-connector-java-5.1.15-bin.jar!/</url>
+      </library>
+    </driver>
+    <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
+      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <option name="auto-sync" value="false" />
+      <property name="prompt" value="false" />
+    </driver>
+    <driver id="mysql" name="MySQL" dialect="MySQL">
+      <artifact name="MySQL Connector/J" use="true" />
+      <option name="auto-sync" value="true" />
+      <property name="autoReconnect" value="true" />
+      <property name="zeroDateTimeBehavior" value="convertToNull" />
+      <property name="tinyInt1isBit" value="false" />
+      <property name="characterEncoding" value="utf8" />
+      <property name="characterSetResults" value="utf8" />
+      <property name="yearIsDateType" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.26-bin.jar</url>
+      </library>
+    </driver>
+    <driver id="d2201d6c-c0d6-441f-a8da-945e8e88274e" name="Icarus driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
+      <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <url-template name="default" template="jdbc:postgresql://\[{host:ipv6:\:\:1}\][:{port::5432}]/{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <artifact name="PostgreSQL" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>jar://M:/workspace/idea/lib/postgresql-9.0-801.jdbc3.jar!/</url>
+      </library>
+    </driver>
+    <driver id="5678cf2a-110e-4231-872f-02dfd35ee4f4" name="Data Source driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
+      <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <url-template name="default" template="jdbc:postgresql://\[{host:ipv6:\:\:1}\][:{port::5432}]/{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <artifact name="PostgreSQL" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://M:/workspace/idea/lib/postgresql-driver-license.txt</url>
+      </library>
+      <library>
+        <url>jar://M:/workspace/idea/lib/postgresql-9.0-801.jdbc3.jar!/</url>
+      </library>
+    </driver>
+    <driver id="hsqldb.remote" name="HSQLDB (Remote)" dialect="HSQLDB">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="fd16850b-554b-4ecd-b149-ba14b8b6a48b" name="Rails Icarus3: test driver" dialect="PostgreSQL" driver-class="org.postgresql.Driver" icon="AllIcons.Providers.Postgresql">
+      <url-template name="default" template="jdbc:postgresql:[//[{host::localhost}[:{port::5432}]]/]{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <url-template name="default" template="jdbc:postgresql://\[{host:ipv6:\:\:1}\][:{port::5432}]/{database::postgres}[\?&lt;&amp;,user={user},password={password},{:identifier}={:identifier}&gt;]" />
+      <artifact name="PostgreSQL" />
+      <option name="auto-sync" value="true" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.2-1002.jdbc4.jar</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
+      </library>
+    </driver>
+  </component>
+</application>

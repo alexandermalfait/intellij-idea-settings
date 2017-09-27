@@ -1,0 +1,96 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="be.profitplus.server.util.ValidationUtils.checkNotNull" />
+    <EXCLUDED_PACKAGE NAME="be.profitplus.shared.util.json.CDL" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.base.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.google.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.internal" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.internal.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.internal.Nullable" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.internal.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.jgoodies.common.base.Objects" />
+    <EXCLUDED_PACKAGE NAME="com.jgoodies.common.base.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="com.jgoodies.common.base.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.jgoodies.forms.factories.Borders" />
+    <EXCLUDED_PACKAGE NAME="com.jgoodies.forms.layout.ConstantSize.Unit" />
+    <EXCLUDED_PACKAGE NAME="com.lowagie.text.Entities" />
+    <EXCLUDED_PACKAGE NAME="com.sun.deploy.panel.JavaPanel" />
+    <EXCLUDED_PACKAGE NAME="com.sun.istack.internal" />
+    <EXCLUDED_PACKAGE NAME="com.sun.java.util.jar.pack.Package.File" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange.Map" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xerces.internal.util.URI" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xml.internal.utils.URI" />
+    <EXCLUDED_PACKAGE NAME="com.sun.org.apache.xpath.internal.operations.String" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.awt.FocusEvent" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.awt.KeyEvent" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.awt.Point" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.bridge.oleautomation.Date" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.io.IOException" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.uno.Exception" />
+    <EXCLUDED_PACKAGE NAME="com.sun.star.util.Date" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.bind.v2.model.core.Ref" />
+    <EXCLUDED_PACKAGE NAME="edu.umd.cs.findbugs.annotations.Nullable" />
+    <EXCLUDED_PACKAGE NAME="groovy.lang.Singleton" />
+    <EXCLUDED_PACKAGE NAME="groovy.model.ValueModel" />
+    <EXCLUDED_PACKAGE NAME="java.sql.Date" />
+    <EXCLUDED_PACKAGE NAME="java.util.logging.Logger" />
+    <EXCLUDED_PACKAGE NAME="javax.annotation.Nullable" />
+    <EXCLUDED_PACKAGE NAME="javax.inject.Singleton" />
+    <EXCLUDED_PACKAGE NAME="javax.jnlp.PrintService" />
+    <EXCLUDED_PACKAGE NAME="javax.management.Query" />
+    <EXCLUDED_PACKAGE NAME="javax.swing.text.html.parser.Entity" />
+    <EXCLUDED_PACKAGE NAME="javax.xml.ws.wsaddressing.W3CEndpointReference.Address" />
+    <EXCLUDED_PACKAGE NAME="net.atlanticbb.tantlinger.ui.text.Entities" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.httpclient.URI" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.io.FileUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.Entities" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.SerializationUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.lang.time.DateUtils" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.net.nntp.Article" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.hssf.record.DConRefRecord" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.hssf.record.formula.functions.Column" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.ss.formula.eval.NotImplementedException" />
+    <EXCLUDED_PACKAGE NAME="org.apache.poi.util.TempFile" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.groovy.syntax.Reduction" />
+    <EXCLUDED_PACKAGE NAME="org.eclipse.swt" />
+    <EXCLUDED_PACKAGE NAME="org.garbargecollected.remoting.ClassUtils" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.annotations.CascadeType" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.annotations.Entity" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.engine.Collections" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.Column" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.ManyToOne" />
+    <EXCLUDED_PACKAGE NAME="org.hibernate.mapping.Map" />
+    <EXCLUDED_PACKAGE NAME="org.intellij.lang.annotations.Language" />
+    <EXCLUDED_PACKAGE NAME="org.jdesktop.swingx.calendar.DateUtils" />
+    <EXCLUDED_PACKAGE NAME="org.jfree.data.time.DateRange" />
+    <EXCLUDED_PACKAGE NAME="org.jivesoftware.smack.packet.Presence" />
+    <EXCLUDED_PACKAGE NAME="org.reflections.vfs.CommonsVfs2UrlType.File" />
+    <EXCLUDED_PACKAGE NAME="org.reflections.vfs.Vfs.File" />
+    <EXCLUDED_PACKAGE NAME="org.xhtmlrenderer.css.parser.property.PrimitivePropertyBuilders.Color" />
+    <EXCLUDED_PACKAGE NAME="sun.reflect.generics.reflectiveObjects.NotImplementedException" />
+    <EXCLUDED_PACKAGE NAME="sun.security.pkcs11.wrapper.Functions" />
+    <EXCLUDED_PACKAGE NAME="sun.security.x509.DeltaCRLIndicatorExtension" />
+    <EXCLUDED_PACKAGE NAME="sun.security.x509.SerialNumber" />
+    <EXCLUDED_PACKAGE NAME="sun.util.calendar.BaseCalendar.Date" />
+    <EXCLUDED_PACKAGE NAME="sun.util.calendar.LocalGregorianCalendar.Date" />
+    <EXCLUDED_PACKAGE NAME="sunw.io.Serializable" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="100" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  </component>
+</application>

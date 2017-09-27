@@ -1,0 +1,18 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="alexandermalfait@gmail.com" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="HgGlobalSettings">
+    <option name="hgExecutable" value="C:\Program Files\Mercurial\bin\hg.cmd" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="M:/workspace/idea/profitplus/patches" />
+  </component>
+</application>

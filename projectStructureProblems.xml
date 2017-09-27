@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:application:jquery)" />
+      <problem id="library-invalid-classes-path(library:application:Python 2.6.4 interpreter library)" />
+      <problem id="library-invalid-source-javadoc-path(library:application:Python 2.6.4 interpreter library)" />
+    </ignored-problems>
+  </component>
+</application>
+

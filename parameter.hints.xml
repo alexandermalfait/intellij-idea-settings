@@ -1,0 +1,90 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Groovy">
+        <added pattern="be.profitplus.server.extensions.feestwinkel.imports.FWImporter.saveMidelcoEntity(entity,midelcoTable,midelcoId,cache)" />
+        <added pattern="be.profitplus.server.extensions.feestwinkel.imports.FWImporter.findMidelcoEntityOrCrash(entityClass,midelcoTable,midelcoId,asReference)" />
+        <added pattern="be.profitplus.server.extensions.dewulf.imports.LDWImporter.externalEntityExists(tableName,externalId)" />
+        <added pattern="be.profitplus.shared.util.SpeedReporter.iterate(collection,reportInterval,consumer)" />
+        <added pattern="java.util.Comparator.comparing(keyExtractor)" />
+        <added pattern="java.util.Comparator.thenComparing(keyExtractor)" />
+        <added pattern="groovy.xml.MarkupBuilder.td(attributes,value,body)" />
+        <added pattern="groovy.xml.MarkupBuilder.th(value,attributes,body)" />
+        <added pattern="java.util.Comparator.comparing(keyExtractor,keyComparator)" />
+      </blacklist>
+      <blacklist language="Java">
+        <added pattern="be.profitplus.shared.util.Strings.replaceAnchors(pattern,anchorsAndValues)" />
+        <added pattern="org.jdom.Element.getAttributeValue(name)" />
+        <added pattern="javax.persistence.EntityManager.createQuery(ejbqlString)" />
+        <added pattern="be.profitplus.server.PPServlet.logInfo(string)" />
+        <added pattern="be.profitplus.server.queries.Condition.Condition(whereBody,parameters)" />
+        <added pattern="be.profitplus.server.queries.QueryObject.addConditionIfNotNull(conditions,property,value)" />
+        <added pattern="be.profitplus.entities.base.PPProperty.PPProperty(name,key)" />
+        <added pattern="be.profitplus.entities.i18n.GeneralIRKStub.GeneralIRKStub(defaultTranslation,defaultLength)" />
+        <added pattern="java.awt.Container.add(comp,constraints)" />
+        <added pattern="net.miginfocom.swing.MigLayout.MigLayout(layoutConstraints)" />
+        <added pattern="be.profitplus.client.gui.task.ApplicationTask.ApplicationTask(taskName)" />
+        <added pattern="be.profitplus.server.queries.QueryObject.addWhere(condition,parameters)" />
+        <added pattern="be.profitplus.entities.base.TransientDataCarrier.putTransientData(name,value)" />
+        <added pattern="be.profitplus.server.migration.DbMigration.addIndex(table,columns)" />
+        <added pattern="be.profitplus.entities.article.outlet.OutletArticle.getArticle()" />
+        <added pattern="be.profitplus.client.gui.components.PPForm.setFormComponentValue(property,value)" />
+        <added pattern="javax.persistence.EntityManager.createNativeQuery(sqlString)" />
+        <added pattern="be.profitplus.server.tests.GroovyTestRunner.runTest(testName,methodNames)" />
+        <added pattern="java.io.InputStreamReader.InputStreamReader(in,charsetName)" />
+        <added pattern="be.profitplus.entities.base.BaseEntity.getDisplayCode()" />
+        <added pattern="java.lang.String.getBytes(charsetName)" />
+        <added pattern="be.profitplus.shared.file.TempFile.TempFile(byteArray,fileName,extension)" />
+        <added pattern="java.text.SimpleDateFormat.SimpleDateFormat(pattern)" />
+        <added pattern="be.profitplus.server.extensions.euromusic.supplierftpsynch.extensions.strengholt.EMDStrengholtPurchaseOrderFtpExporter.appendLine(data)" />
+        <added pattern="be.profitplus.server.extensions.euromusic.supplierftpsynch.extensions.strengholt.EMDStrengholtPurchaseOrderFtpExporter.writeLine(data)" />
+        <added pattern="be.profitplus.shared.util.Nulls.checkNotNull(object,message)" />
+        <added pattern="be.profitplus.server.migration.DbMigration.renameMenuItemAction(oldName,newName)" />
+        <added pattern="be.profitplus.client.gui.components.forms.MigLayoutForm.addLineWithHelp(property,helpAnchor,components)" />
+        <added pattern="java.lang.Object.getClass()" />
+        <added pattern="be.profitplus.server.queries.OrderParameter.OrderParameter(property,direction)" />
+        <added pattern="be.profitplus.server.queries.OrderParameter.OrderParameter(property)" />
+        <added pattern="com.google.common.base.Preconditions.checkArgument(expression,errorMessage)" />
+        <added pattern="be.profitplus.entities.base.TransientDataCarrier.getTransientData(name,defaultValue)" />
+        <added pattern="be.profitplus.server.PPServlet.getSingleResultOrDefault(query,defaultValue)" />
+        <added pattern="be.profitplus.server.migration.DbMigration.executeSql(sql)" />
+        <added pattern="be.profitplus.shared.util.SpeedReporter.iterateWithIndex(collection,reportInterval,consumer)" />
+        <added pattern="be.profitplus.entities.document.commercial.CommercialDocumentLine.getDisplayCode()" />
+        <added pattern="be.profitplus.server.purchase.PurchaseOrderDAO.cancelOrderLineDelivery(purchaseOrderLineId,cancellationComment)" />
+        <added pattern="be.profitplus.server.sales.SalesOrderDAO.cancelOrderLineDelivery(salesOrderLine,cancellationComment)" />
+        <added pattern="be.profitplus.entities.base.TransientDataCarrier.getTransientData(name)" />
+        <added pattern="be.profitplus.server.migration.Migration.logInfo(string)" />
+        <added pattern="be.profitplus.client.gui.components.AbstractPPComponent.getIR(stub,anchors)" />
+        <added pattern="be.profitplus.server.queries.VirtualProperty.VirtualProperty(serviceClass,transientDataName)" />
+        <added pattern="be.profitplus.client.gui.components.forms.MigLayoutForm.addLineWithHelp(irk,helpAnchor,components)" />
+        <added pattern="java.util.Map.getOrDefault(key,defaultValue)" />
+        <added pattern="be.profitplus.server.PPServlet.resolveExternalEntityOrCrash(clazz,externalId,source)" />
+        <added pattern="org.jdom.Element.getChildText(name)" />
+        <added pattern="be.profitplus.server.PPServlet.registerExternalId(internalEntity,externalId,source)" />
+        <added pattern="org.jdom.Element.getChildren(name)" />
+        <added pattern="java.lang.String.replaceAll(regex,replacement)" />
+        <added pattern="be.profitplus.entities.article.production.ProductionArticleCalculationPart.getComment()" />
+        <added pattern="be.profitplus.shared.util.Strings.joinFilled(delimiter,parts)" />
+        <added pattern="java.util.Objects.equals(a,b)" />
+        <added pattern="be.profitplus.shared.util.Nulls.firstNonNullOrCrash(candidates)" />
+        <added pattern="be.profitplus.server.files.FileManager.getExtraStorageFolder(folderPath)" />
+        <added pattern="be.profitplus.server.support.LogService.log(source,type,message)" />
+        <added pattern="javax.swing.JLabel.JLabel(text)" />
+        <added pattern="be.profitplus.server.sales.StandardSalesOrderDAO.addDefaultSalesOrderLine(salesOrder,article,specification,price,amount)" />
+        <added pattern="be.profitplus.tools.spreadsheet.csv.PPCsvLine.getInteger(field)" />
+        <added pattern="be.profitplus.tools.spreadsheet.csv.PPCsvLine.getOrNull(field)" />
+        <added pattern="be.profitplus.server.queries.Condition.setParameter(parameter,value)" />
+        <added pattern="java.sql.Connection.prepareStatement(sql)" />
+        <added pattern="java.util.stream.Collectors.joining(delimiter)" />
+        <added pattern="be.profitplus.client.gui.components.PPForm.addFormComponent(naam,component)" />
+        <added pattern="be.profitplus.server.extensions.feestwinkel.website.FWWebsiteSynchRevenueCategoriesExporter.createDocument(rootElementName,elements)" />
+        <added pattern="be.profitplus.server.extensions.feestwinkel.website.FWWebsiteSynchExporter.createDocument(rootElementName,elements)" />
+        <added pattern="javax.persistence.Query.setParameter(name,value)" />
+        <added pattern="org.jdom.Element.Element(name)" />
+      </blacklist>
+      <blacklist language="Ruby">
+        <added pattern="SystemUser.has_right?(subject,module_identifier,right_identifiers,options)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

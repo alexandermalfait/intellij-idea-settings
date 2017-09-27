@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3c4b5180-3dd6-4214-8d0f-3a09107dac2c" name="jantervaert" url="http://chroom.openminds.be">
+        <fileTransfer host="chroom.openminds.be" port="21" rootFolder="/default_www">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

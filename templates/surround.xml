@@ -1,0 +1,29 @@
+<templateSet group="surround">
+  <template name="surprop" value="$SELECTION$;&#10;&#10;public static final PPProperty&lt;$TYPE$&gt; $UNDERSCORED$ = new PPProperty&lt;&gt;(&quot;$SELECTION$&quot;, $END$)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="typeOfVariable(SELECTION)" defaultValue="undefined" alwaysStopAt="false" />
+    <variable name="UNDERSCORED" expression="capitalizeAndUnderscore(SELECTION)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="surpropstr" value="$SELECTION$;&#10;&#10;public static final String $UNDERSCORED$ = &quot;$SELECTION$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="UNDERSCORED" expression="capitalizeAndUnderscore(SELECTION)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="B" value="{$SELECTION$}" description="Surround with {}" toReformat="true" toShortenFQNames="true">
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="C" value="java.util.concurrent.Callable&lt;$RET$&gt; callable = new java.util.concurrent.Callable&lt;$RET$&gt;() {&#10;  public $RET$ call() throws Exception {&#10;    $SELECTION$&#10;    $END$ &#10;  }&#10;};" description="Surround with Callable" toReformat="true" toShortenFQNames="true">
+    <variable name="RET" expression="" defaultValue="&quot;java.lang.Object&quot;" alwaysStopAt="true" />
+    <variable name="SELECTION" expression="" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="labelize" value="&lt;?= $h-&gt;label('$SELECTION$', [ 'cn' =&gt; '$END$']) ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

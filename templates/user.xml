@@ -1,0 +1,160 @@
+<templateSet group="user">
+  <template name="script" value="&lt;script type=&quot;text/javascript&quot;&gt;&#10;   $END$&#10;&lt;/script&gt;" description="Javascript" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="propref" value="public static final PPProperty&lt;$TYPE$&gt; $PROP_CONSTANT$ = new PPProperty&lt;&gt;(&quot;$PROP$&quot;, $STUB$);" description="Property reference" toReformat="false" toShortenFQNames="false">
+    <variable name="TYPE" expression="typeOfVariable($PROP$)" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP_CONSTANT" expression="" defaultValue="capitalizeAndUnderscore($PROP$)" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="STUB" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="inn" value="if($var$ != null) {&#10;   $END$&#10;}" description="if not null do something" toReformat="true" toShortenFQNames="true">
+    <variable name="var" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="zero" value="BigDecimal $var$ = BigDecimal.ZERO;&#10;$END$" description="Initialize a new bigdecimal to zero" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="db" value="{% $END$ %}" description="django block" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="dbb" value="{% $TYPE$ $ARGS$ %}&#10;    $END$&#10;{% end$TYPE$ %}" description="django block with content" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="pubf" value="public function $name$($params$) {&#10;    $END$&#10;}" description="public function (php)" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="privf" value="private function $name$($params$) {&#10;    $END$&#10;}" description="private function (php)" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="foreach" value="&lt;? foreach($array$ as $val$) { ?&gt;&#10;    $END$&#10;&lt;? } ?&gt; " shortcut="ENTER" description="Foreach in html template" toReformat="false" toShortenFQNames="true">
+    <variable name="array" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="val" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="if" value="&lt;? if($test$) { ?&gt;&#10;    $END$&#10;&lt;? } ?&gt; " shortcut="ENTER" description="If in html template" toReformat="false" toShortenFQNames="true">
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="&lt;? if($test$) { ?&gt;&#10;    $END$&#10;&lt;? } else { ?&gt;&#10;&lt;? } ?&gt; " shortcut="ENTER" description="If-else in html template" toReformat="false" toShortenFQNames="true">
+    <variable name="test" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="?" value="&lt;? $END$ ?&gt;" shortcut="ENTER" description="open-close php tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="?=" value="&lt;?= $END$ ?&gt;" description="open-close php echo tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="vdoc" value="/** @var $variable$ $class$ */" description="PHP variable documentation" toReformat="false" toShortenFQNames="true">
+    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="dbo" value="class $class$ extends DBObject {&#10;    &#10;    public function __construct($id = 0) {&#10;        parent::__construct($table$, $id);&#10;    }&#10;    &#10;    /**&#10;    * @return $class$[]&#10;    */&#10;    public function getObjectArray() {&#10;        return parent::getObjectArray();&#10;    }&#10;}" description="DBObject" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="jslink" value="&lt;a href=&quot;javascript:void(null)&quot; onclick=&quot;$ONCLICK$&quot;&gt;&#10;    $CONTENTS&#10;&lt;/a&gt;" shortcut="ENTER" description="anchor with javascript:void(null)" toReformat="false" toShortenFQNames="true">
+    <variable name="ONCLICK" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="fixdef" value="define($OBJECT_CLASS$, { $OBJECT_CLASS$ $VAR$ , FixtureService fixtures -&gt;&#10;  $END$  &#10;})" description="Define a fixture" toReformat="true" toShortenFQNames="true">
+    <variable name="OBJECT_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+  <template name="propstr" value="public static final String $REF$ = &quot;$PROP$&quot;;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="REF" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="webm" value="@RoutedAction(url = &quot;/:language/$URL$&quot;)&#10;public WebView $NAME$() {&#10;    $END$&#10;}" description="Groovy web method" toReformat="false" toShortenFQNames="true">
+    <variable name="URL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+    </context>
+  </template>
+  <template name="getlo" value="/**&#10;* @return $TYPE$&#10;*/&#10;public function get$TYPE$() {&#10;    return $this-&gt;getLinkedObject('$TYPE$', '$TYPE$');&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="nfp" value="FetchPath fetchPath = new FetchPath();&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rnfp" value="FetchPath fetchPath = new FetchPath();&#10;&#10;$END$&#10;    &#10;return fetchPath;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="apropref" value="public static final PPProperty&lt;$TYPE$&gt; $REF$ = new PPProperty&lt;$TYPE$&gt;(&quot;$PROP$&quot;, $STUB$);" description="Property reference" toReformat="false" toShortenFQNames="false">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="REF" expression="typeOfVariable(VAR)" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="capitalize(String)" defaultValue="$REF$" alwaysStopAt="true" />
+    <variable name="STUB" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mlp" value="JPanel $PANEL$ = new JPanel(new MigLayout());" description="JPane with MigLayout" toReformat="false" toShortenFQNames="true">
+    <variable name="PANEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="category" value="    private $TYPE$ parent;&#10;&#10;    private Set&lt;$TYPE$&gt; children = Sets.newHashSet();&#10;&#10;    @Override&#10;    @ManyToOne(fetch= FetchType.LAZY)&#10;    public $TYPE$ getParent() {&#10;        return parent;&#10;    }&#10;&#10;    public void setParent($TYPE$ parent) {&#10;        this.parent = parent;&#10;    }&#10;&#10;    @Override&#10;    @OneToMany(fetch=FetchType.LAZY,mappedBy=&quot;parent&quot;,cascade= CascadeType.REMOVE)&#10;    public Set&lt;$TYPE$&gt; getChildren() {&#10;        return children;&#10;    }&#10;&#10;    public void setChildren(Set&lt;$TYPE$&gt; children) {&#10;        this.children = children;&#10;    }" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mto" value="@ManyToOne(optional = false, fetch = FetchType.LAZY)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="bean" value="@Singleton&#10;@Transactional(rollbackOn = Exception.class)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
