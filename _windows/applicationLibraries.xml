@@ -10593,19 +10593,19 @@
     </library>
     <library name="jruby-1.7.12-p392 facet library">
       <CLASSES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
         <root url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/shared" />
-        <root url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/1.9" />
+        <root url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/1.8" />
         <root url="jar://M:/workspace/installations/jruby-1.7.12/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
         <root url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/shared" />
-        <root url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/1.9" />
+        <root url="file://M:/workspace/installations/jruby-1.7.12/lib/ruby/1.8" />
         <root url="jar://M:/workspace/installations/jruby-1.7.12/lib/jruby.jar!/jruby" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs193" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/ruby/rubystubs/rubystubs18" />
       </SOURCES>
     </library>
     <library name="jruby-1.7.25-p551 facet library">
